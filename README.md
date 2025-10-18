@@ -22,32 +22,24 @@ It uncovers detailed insights into team performance, player statistics, match ou
 ## 📈 Key Insights & KPIs
 
 🏆 Season Champions & Runner-Up Teams
-
 💥 Total 6s, 4s, Matches, and Venues per Season
 
-🟠 Orange Cap (Most Runs)
-
-🟣 Purple Cap (Most Wickets)
-
-🔝 Top 4s and 6s Players
-
-📊 Dynamic Points Table (Auto-calculated using DAX)
-
-📅 Interactive Season Selection (2008–2025)
+- 🟠 Orange Cap (Most Runs)
+- 🟣 Purple Cap (Most Wickets)
+- 🔝 Top 4s and 6s Players
+- 📊 Dynamic Points Table (Auto-calculated using DAX)
+- 📅 Interactive Season Selection (2008–2025)
 
 ## 🚀 Key Learnings
 
-Hands-on experience with Power BI data modeling.
+- Hands-on experience with Power BI data modeling.
+- Mastered complex DAX calculations and relationship management.
+- Improved data storytelling and dashboard design.
+- Built a complete end-to-end analytical project from raw data to insights.
 
-Mastered complex DAX calculations and relationship management.
+### 👨‍💻 Developer
+**Sajid Hussain**  
+📍 B.Tech CSE |Data Analyst  
+📧 [sajidhussain8541@gmail.com]  
+🔗 [GitHub Profile](https://github.com/sajid-hussain08)
 
-Improved data storytelling and dashboard design.
-
-Built a complete end-to-end analytical project from raw data to insights.
-
-## 🧑‍💻 Developed By
-
-**Sajid Hussain**
-📚 B.Tech CSE (final Year), IES University, Bhopal
-💻 Data Analytics Learner
-🌐 sajid-hussain08
